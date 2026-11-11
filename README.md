@@ -3,8 +3,8 @@
 - Inital Setup
 ```bash
 # Clone the repository
-git clone https://github.com/pgvv/US-Visa-Bot.git
-cd US-Visa-Bot
+git clone https://github.com/pgvv/pythonProjectTemplate
+cd pythonProjectTemplate
 Remove-Item -Recurse -Force .git
 ```
 - Delete src/old folder
